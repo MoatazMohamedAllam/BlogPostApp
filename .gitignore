@@ -7,7 +7,7 @@ wwwroot/js/**
 wwwroot/scripts/**
 wwwroot/styles/**
 wwwroot/dist/main-client.*
-ClientApp/dist/main-server.*
+
 
 node_modules/**
 [Ss]cripts/[Aa]pp/*.js
